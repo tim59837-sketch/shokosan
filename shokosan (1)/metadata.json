@@ -1,0 +1,6 @@
+{
+  "name": "心靈拿鐵相談室",
+  "description": "心靈拿鐵相談室：融合心靈特調與九宮格時空維度的撲克牌靈性解讀系統，提供靜心發牌與同理心深度文字諮商。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
